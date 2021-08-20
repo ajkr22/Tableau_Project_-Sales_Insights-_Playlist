@@ -1,0 +1,2 @@
+# Tableau_Project_-Sales_Insights-_Playlist
+This is the  Tableau Project for sales insights data analysis project using tableau. This project gives a feel of how data analysis are executed in big companies. Our case study is based on a computer hardware business which is facing challenges in dynamically changing market. Sales director decides to invest in data analysis project and he would like to build Tableau dashboard that can give him real time sales insights.
